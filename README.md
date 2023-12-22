@@ -1,4 +1,4 @@
-Go check my [website](https://nethoxa.github.io/) to see my work. These are my stats since I switched from Windows kernel hacking to crypto in July 2023:
+Go check my [website](http://tinyurl.com/nethoxa) to see my work. These are my stats since I switched from Windows kernel hacking to crypto in July 2023:
 
 | C4 leaderboard 2023 | C4 leaderboard all time | Immunefi payed reports | Cumulative earnings |
 |:-------------------:|:-----------------------:|:----------------------:|:-------------------:|
