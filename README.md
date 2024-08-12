@@ -18,8 +18,8 @@ My private audits:
 | ZK Circom circuits | February 2024 | <font color="purple">0</font>/<font color="red">0</font>/<font color="orange">0</font>/<font color="green">1</font>/<font color="blue">1</font>| TBD |
 | L2 zkEVM | January 2024 | <font color="purple">0</font>/<font color="red">0</font>/<font color="orange">2</font>/<font color="green">0</font>/<font color="blue">1</font>| TBD |
 | Vanilla lending pools | April 2024 | <font color="purple">3</font>/<font color="red">3</font>/<font color="orange">1</font>/<font color="green">3</font>/<font color="blue">0</font>| TBD |
-| Containers and Wallet abstractions | April 2024 | <font color="purple">0</font>/<font color="red">1</font>/<font color="orange">1</font>/<font color="green">1</font>/<font color="blue">4</font>| TBD |
-| Multichain DEX aggregator with Stargate v1 integration (among other bridging solutions) | May 2024 | <font color="purple">1</font>/<font color="red">0</font>/<font color="orange">1</font>/<font color="green">1</font>/<font color="blue">2</font>| TBD | 
+| Containers and wallet abstractions | April 2024 | <font color="purple">0</font>/<font color="red">1</font>/<font color="orange">1</font>/<font color="green">1</font>/<font color="blue">4</font>| TBD |
+| Multichain DEX aggregator with Stargate v1 integration | May 2024 | <font color="purple">1</font>/<font color="red">0</font>/<font color="orange">1</font>/<font color="green">1</font>/<font color="blue">2</font>| TBD | 
 | ZK module for Safe wallets | May 2024 | <font color="purple">0</font>/<font color="red">0</font>/<font color="orange">1</font>/<font color="green">0</font>/<font color="blue">1</font>| TBD | 
 | Lending pools with custom oracles | June 2024 | <font color="purple">3</font>/<font color="red">1</font>/<font color="orange">5</font>/<font color="green">2</font>/<font color="blue">3</font>| TBD | 
 | Geth fork with new consensus | June 2024 | <font color="purple">TBF</font>/<font color="red">TBF</font>/<font color="orange">TBF</font>/<font color="green">TBF</font>/<font color="blue">TBF</font>| TBD | 
