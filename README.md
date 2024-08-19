@@ -1,4 +1,5 @@
-Go check my [website](http://tinyurl.com/nethoxa) to see my work. These are my achievements so far:
+# Achievements
+
 |                    <font color="red">What</font>                    | <font color="red">When</font> | <font color="red">Output</font> |                      <font color="red">Proof</font>                      |
 |:-------------------------------------------------------------------|:-----------------------------|:--------------------------------|:------------------------------------------------------------------------|
 | 500K pre-seed round at age 19 for an aerospace startup (long story) |           June 2023           | NDA                             |                                   NDA                                    |
@@ -11,16 +12,19 @@ Go check my [website](http://tinyurl.com/nethoxa) to see my work. These are my a
 | 🏅 Top 5 in the Doubler contest | March 2024 | $2167,83 | TBD | 
 | 🏅 Top 5 in the Gondi contest | April 2024 | $1300,00 | TBD| 
 
-My private audits:
+# Leaderboards
+
+# Private audits
 
 |                    <font color="red">What</font>                    | <font color="red">When</font> |                      <font color="red">Output</font>                      |                      <font color="red">Proof</font>                      |
 |:-------------------------------------------------------------------|:-----------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------|
-| ZK Circom circuits | February 2024 | <font color="purple">0</font>/<font color="red">0</font>/<font color="orange">0</font>/<font color="green">1</font>/<font color="blue">1</font>| TBD |
-| L2 zkEVM | March 2024 | <font color="purple">0</font>/<font color="red">0</font>/<font color="orange">2</font>/<font color="green">0</font>/<font color="blue">1</font>| TBD |
-| Vanilla lending pools | April 2024 | <font color="purple">3</font>/<font color="red">3</font>/<font color="orange">1</font>/<font color="green">3</font>/<font color="blue">0</font>| TBD |
-| Containers and wallet abstractions | April 2024 | <font color="purple">0</font>/<font color="red">1</font>/<font color="orange">1</font>/<font color="green">1</font>/<font color="blue">4</font>| TBD |
-| Multichain DEX aggregator with Stargate v1 integration | May 2024 | <font color="purple">1</font>/<font color="red">0</font>/<font color="orange">1</font>/<font color="green">1</font>/<font color="blue">2</font>| TBD | 
-| ZK module for Safe wallets | May 2024 | <font color="purple">0</font>/<font color="red">0</font>/<font color="orange">1</font>/<font color="green">0</font>/<font color="blue">1</font>| TBD | 
-| Lending pools with custom oracles | June 2024 | <font color="purple">3</font>/<font color="red">1</font>/<font color="orange">5</font>/<font color="green">2</font>/<font color="blue">3</font>| TBD | 
-| Geth fork with new consensus | June 2024 | <font color="purple">TBF</font>/<font color="red">TBF</font>/<font color="orange">TBF</font>/<font color="green">TBF</font>/<font color="blue">TBF</font>| TBD | 
-| GMX fork with Pyth integration | August 2024 | <font color="purple">TBF</font>/<font color="red">TBF</font>/<font color="orange">TBF</font>/<font color="green">TBF</font>/<font color="blue">TBF</font>| TBD | 
+| ZK Circom circuits | February 2024 | <font color="green">1 low </font> - <font color="blue">1 info</font> | TBD |
+| L2 zkEVM | March 2024 | <font color="orange">2 medium </font> - <font color="blue">1 info </font> | TBD |
+| Vanilla lending pools | April 2024 | <font color="purple">3 critical </font> - <font color="red">3 high</font> - <font color="orange">1 medium</font> - <font color="green">3 low</font> | TBD |
+| Containers and wallet abstractions | April 2024 | <font color="red">1 high</font> - <font color="orange">1 medium</font> - <font color="green">1 low</font> - <font color="blue">4 info</font> | TBD |
+| Multichain DEX aggregator with Stargate v1 integration | May 2024 | <font color="purple">1 critical</font> - <font color="orange">1 high</font> - <font color="green">1 low</font> - <font color="blue">2 info</font> | TBD | 
+| ZK module for Safe wallets | May 2024 | <font color="orange">1 medium</font> - <font color="blue">1 info</font> | TBD | 
+| Lending pools with custom oracles | June 2024 | <font color="purple">3 critical</font> - <font color="red">1 high</font> - <font color="orange">5 medium</font> - <font color="green">2 low</font> - <font color="blue">3 info</font> | TBD | 
+| Geth fork with new consensus | June 2024 | <font color="purple">TBE</font> - <font color="red">TBE</font> - <font color="orange">TBE</font> - <font color="green">TBE</font> - <font color="blue">TBE</font> | TBD | 
+| GMX fork with Pyth integration | August 2024 | <font color="purple">3 critical</font> - <font color="orange">1 medium</font> | TBD | 
+| CDP-based stablecoin | August 2024 | <font color="purple">TBE</font> - <font color="red">TBE</font> - <font color="orange">TBE</font> - <font color="green">TBE</font> - <font color="blue">TBE</font> | TBD | 
