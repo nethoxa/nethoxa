@@ -12,6 +12,6 @@ Some achievements I have:
 
 After that, I led `>14` audits for projects ranging from Geth forks, the zkVM of one of the biggest L2s (with severe bugs found after tons of audits), Cosmos chains and many more, with a TVL secured of `>1.1B`. Overall, I found `18 criticals`, `24 highs` and `32 mediums` **JUST** in 2024.
 
-Oh, and `2 criticals` in one of the leading ZK L2 as well as a generic critical in most Cosmos chains.
+Oh, and `2 criticals` in one of the leading ZK L2 as well as a `generic critical` in most Cosmos chains.
 
 :)
